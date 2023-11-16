@@ -5,8 +5,8 @@
 3. The algorithm utilizes local patch-matching via spatial correlation to track jittering and flickering neurons in a 3D Ca2+ movie. 
 
 > Toy example of tracked and segmented neurons
- 
- https://user-images.githubusercontent.com/38955889/128269347-8013f98b-85e6-4180-a563-4adb23962847.mp4
+
+https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/1bc43a50-295c-4e8b-b1b7-451b53e2050d
 
 <img src="/DynamicNeuronTrackerPackage/Doc/HCL-indexedActivityMap.png" width = 49.5%>
 
