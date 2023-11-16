@@ -4,17 +4,17 @@
 2. The package is built on Matlab (ver. 2020a). 
 3. The algorithm utilizes local patch-matching via spatial correlation to track jittering and flickering neurons in a 3D Ca2+ movie. 
 
-> Toy example of tracked and segmented neurons
+## Toy example of tracked and segmented neurons
 
-https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/1bc43a50-295c-4e8b-b1b7-451b53e2050d
+> Maximum intensity projection video and overlaid dynamic ROIs
 
-![](https://github.com/JungsikNoh/DynamicNeuronTracker/Doc/HCL-indexedActivityMap.png){width=900}
+https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/b3b84c60-8b68-43b3-b31d-52c7a397e6f8
 
-<img src="Doc/HCL-indexedActivityMap.png" width ="500">
-![heatmap](Doc/HCL-indexedActivityMap.png)
+> Normalized neuron activity time courses
+<img src="Doc/HCL-indexedActivityMap.png" width="49.5%"/>
 
 
-<p>&nbsp;</p>
+
 
 ## User Manual
 
