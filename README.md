@@ -8,9 +8,9 @@
 
 https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/1bc43a50-295c-4e8b-b1b7-451b53e2050d
 
-![](https://github.com/JungsikNoh/DynamicNeuronTracker/Doc/HCL-indexedActivityMap.png)
+![](https://github.com/JungsikNoh/DynamicNeuronTracker/Doc/HCL-indexedActivityMap.png){width=900}
 
-<img src="Doc/HCL-indexedActivityMap.png" width = 100>
+<img src="Doc/HCL-indexedActivityMap.png" width ="500">
 ![heatmap](Doc/HCL-indexedActivityMap.png)
 
 
