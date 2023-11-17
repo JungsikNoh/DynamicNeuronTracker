@@ -1,8 +1,9 @@
 # DynamicNeuronTracker (DyNT)
 
-1. ***DynamicNeuronTracker*** extracts dynamic Region-Of-Interests (ROIs) of firing neurons in 3D calcium images of deforming live tissues. 
-2. The package is built on Matlab (ver. 2020a). 
-3. The algorithm utilizes local patch-matching via spatial correlation to track jittering and flickering neurons in a 3D Ca2+ movie. 
+1. ***DynamicNeuronTracker*** extracts dynamic Region-Of-Interests (ROIs) to accurately segment jittering and flickering single neurons in 3D calcium imaging of deforming tissues. 
+2. This neuron segmentation method is designed for calcium imaging data which cannot be well-registered so that single neuron locations are not static over time.
+4. The package is built on Matlab (ver. 2020a). 
+5. The algorithm utilizes local patch-matching via spatial correlation to track jittering and flickering neurons in a 3D calcium movie. 
 
 ## Toy example of tracked and segmented neurons
 
