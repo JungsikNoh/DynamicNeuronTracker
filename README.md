@@ -13,7 +13,7 @@
 
 > Maximum intensity projection video and overlaid dynamic ROIs
 
-https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/b3b84c60-8b68-43b3-b31d-52c7a397e6f8
+https://github.com/JungsikNoh/DynamicNeuronTracker/assets/38955889/bde88bf0-a27e-4e90-ace7-144b077bd077
 
 > Normalized neuron activity time courses
 <img src="Doc/HCL-indexedActivityMap.png" width="60%"/>
