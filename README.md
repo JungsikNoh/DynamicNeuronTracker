@@ -54,6 +54,7 @@ process each sub-volume video, and combine the sub-volume outputs.
 
 ## More information
 - [Output examples](Doc/outputExamples.pdf) of DyNT
+- [Description of parameters for main functions](Doc/parameterDescription.pdf)
 
 
 ## Contact
