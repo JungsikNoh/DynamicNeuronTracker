@@ -1,4 +1,4 @@
-<img align="right"  height="100" src="/JitteringNeuronTrackerPackage/Doc/utsw-master-logo-cmyk%2BBI.png">
+<img align="right"  height="100" src="Doc/utsw-master-logo-cmyk%2BBI.png">
 
  <p>&nbsp;</p>
 
@@ -50,7 +50,7 @@ git clone https://github.com/JungsikNoh/DynamicNeuronTracker.git
 
 ## Parallel segmentation with sub-volume videos 
 - If a single 3D calcium movie is too big to analyze in a single batch, then you can utilize [Pipeline_toGenerate_8subvolumeData_and_combineSeparateAnalysisResults.m](DynamicNeuronTrackerPackage/DynamicNeuronTracker/Pipelines/Pipeline_toGenerate_8subvolumeData_and_combineSeparateAnalysisResults.m) to divide an original volume into 8 sub-volumes,
-process each sub-volume videos, and combine the sub-volume outputs. 
+process each sub-volume video, and combine the sub-volume outputs. 
 
 ## More information
 - [Output examples](Doc/outputExamples.pdf) of DyNT
